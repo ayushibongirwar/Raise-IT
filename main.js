@@ -1,6 +1,6 @@
 function message(){
     var Name = document.getElementById('name');
-    var email = document.getElementById('branch');
+    var email = document.getElementById('email');
     var msg = document.getElementById('msg');
     const success = document.getElementById('success');
     const danger = document.getElementById('danger');
